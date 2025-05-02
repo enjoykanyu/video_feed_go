@@ -1,0 +1,16 @@
+#项目相关配置
+app:
+  name: douyin
+  debug: true
+#数据库相关配置
+database:
+  driver: mysql
+  host: 127.0.0.1
+  port: 3306
+  username: root
+  dbname: kanyuServer
+  password: 901project
+#redis相关配置
+redis:
+  host: 127.0.0.1
+  port: 6379
